@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"الجزء الأول-أ ب ت ث ج ح خ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5ehb0LuwAGM0JdFsafU_mP8",
@@ -24,7 +24,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":" الجزء الثاني- د ذ ر ز ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PLEaGEZnOHpUMC6v_ER7j43IdfMlzM4jC-",
@@ -42,7 +42,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":" الجزء الثالث- س ش ص ض ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PLEaGEZnOHpUOXEOscvmADIgC3L3MGvxby",
@@ -60,7 +60,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"الجزء الرابع- ع غ ط ظ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PLEaGEZnOHpUOfieeYb8RYr5NehXZ2FMKz",
@@ -78,7 +78,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"  الجزء الخامس- ف ق ك ل",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5emWhXk60YZxAKCIxHrph2y",
@@ -96,7 +96,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":" الجزء السادس- م ن ه و ي",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PLEaGEZnOHpUP4SKUKrg3Udghc5zJ_tH0g",
@@ -109,16 +109,16 @@
 	,  
 	 
 		  {
-    "title":"سباق الحروف",
+    "title":"تعلم الكتابة و القراءة باللغة العربية",
     "drawable":"",
     "submenu":"الحروف",
     "iap":false,
     "tabs":[
 	       {
-        "title":"إبداعات ibda3at II",
+        "title":"",
         "provider":"youtube",
         "arguments":[
-          "PLhJA_JMNpt6P_UJr4iK_psEfyQXE_FmFh",
+          "PLEaGEZnOHpUOmHSHA0e7XEHKQwBHK6cDh",
           "playlist"
 		]
 	       }
@@ -163,6 +163,24 @@
         ]
       }
 	,  
+	  {
+    "title":"أناشيد",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"لعبة الحروف",
+        "provider":"youtube",
+        "arguments":[
+          "PLEaGEZnOHpUOQtlmkVCSnsi2NJa8rQB6k",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
 		  {
     "title":"لعبة الحروف",
     "drawable":"",
@@ -188,7 +206,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"الجزء الأول-أ ب ت ث ج ح خ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PL-h6kMEy6W5f8cxR0ZyVENruM4IzqrOeF",
@@ -206,7 +224,7 @@
     "iap":false,
     "tabs":[
 	       {
-        "title":"الجزء الأول-أ ب ت ث ج ح خ",
+        "title":"",
         "provider":"youtube",
         "arguments":[
           "PLEaGEZnOHpUP5UmuuTlQ9fpXHi6c-Qni_",
