@@ -1,93 +1,187 @@
 [
 		  {
-    "title":"تسريحات الشعر سهلة",
+    "title":" الجزء الأول أ ب ت ث ج ح خ",
     "drawable":"",
-    "submenu":"فيديوهات",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"الجزء الأول أ ب ت ث ج ح خ",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5ehb0LuwAGM0JdFsafU_mP8",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+			  {
+    "title":" د ذ ر ز سباق الحروف  الجزء الثاني",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"د ذ ر ز سباق الحروف  الجزء الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5dk11ATJ8OMImtSNzs7GLL3",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+			  {
+    "title":"  س ش ص ض سباق الحروف الجزء الثالث",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":" س ش ص ض سباق الحروف الجزء الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5d2yMB3Ak4yOr7SwGr6eQaG",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+			  {
+    "title":" الجزء الرابع ع غ ط ظ",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"الجزء الرابع ع غ ط ظ",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5dCJFtjrTWiKcPkokax-KF0",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+			  {
+    "title":"  سباق الحروف الجزء الخامس ف ق ك ل",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":" سباق الحروف الجزء الخامس ف ق ك ل",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5emWhXk60YZxAKCIxHrph2y",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+			  {
+    "title":"  سباق الحروف الجزء السادس م ن ه و ي",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":" سباق الحروف الجزء السادس م ن ه و ي",
+        "provider":"youtube",
+        "arguments":[
+          "PL-h6kMEy6W5fS_BhRRfnkGpuf9xQA-1Vw",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+	 
+		  {
+    "title":"سباق الحروف",
+    "drawable":"",
+    "submenu":"الحروف",
     "iap":false,
     "tabs":[
 	       {
         "title":"إبداعات ibda3at II",
         "provider":"youtube",
         "arguments":[
-          "UCgokeLXOBVyCk2B7hJjK9cA",
-          "channel"
+          "PLhJA_JMNpt6P_UJr4iK_psEfyQXE_FmFh",
+          "playlist"
 		]
 	       }
-	    ,
-	     {
-        "title":"روانه Rawana",
-        "provider":"youtube",
-        "arguments":[
-          "UCT9HCPqXTmEf84dEUDr44eQ",
-          "channel"
-		]
-	       }
-	    ,
-	    
-	     {
-        "title":"NorMina - مجلة نورمينا",
-        "provider":"youtube",
-        "arguments":[
-          "UCABynHp3mREQKDXx4gyyCXA",
-          "channel"
-		]
-	       }
-	    ,
-	       {
-        "title":"حواء Tv",
-        "provider":"youtube",
-        "arguments":[
-          "UCFbU05UvawdNQNqPuE1NYxA",
-          "channel"
-		]
-	       }
-	    ,
-	       {
-        "title":"Hayla TV ",
-        "provider":"youtube",
-        "arguments":[
-          "UCJlR_vpux2H2Y9fdZS9-e_A",
-          "channel"
-		]
-	       }
-	    ,
-	      {
-        "title":"Oumaima's Space فضاء أميمة",
-        "provider":"youtube",
-        "arguments":[
-          "UCrSCc686QLRBOxMxaQeMU0Q",
-          "channel"
-		]
-	       }
-	        ,
-	      {
-        "title":"Nora Beauty",
-        "provider":"youtube",
-        "arguments":[
-          "UCflqf6d0VbOysoz091-wHNQ",
-          "channel"
-		]
-	       }
-	    
+	   	    
         ]
       }
 	,  
-	 
-  {
-    "title":"Videos",
+	
+	  {
+    "title":"نحو",
     "drawable":"",
-    "submenu":"Other",
+    "submenu":"الحروف",
     "iap":false,
     "tabs":[
-      {
-        "title":"Categories",
-        "provider":"overview",
+	       {
+        "title":"نحو",
+        "provider":"youtube",
         "arguments":[
-          "overview.json"
+          "PLhJA_JMNpt6NVhobtuXOeJAK8PeQTMA57",
+          "playlist"
+		]
+	       }
+	   	    
         ]
       }
-    ]
-  },
+	,  
+		  {
+    "title":"لعبة التهجي",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"لعبة التهجي",
+        "provider":"youtube",
+        "arguments":[
+          "PLhJA_JMNpt6OzxDHnfZ7cxQ4JkTEw4Gbb",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+		  {
+    "title":"لعبة الحروف",
+    "drawable":"",
+    "submenu":"الحروف",
+    "iap":false,
+    "tabs":[
+	       {
+        "title":"لعبة الحروف",
+        "provider":"youtube",
+        "arguments":[
+          "PLhJA_JMNpt6OYWwBslsZjj-Zfp-R_OrZQ",
+          "playlist"
+		]
+	       }
+	   	    
+        ]
+      }
+	,  
+
 
   {
     "title":"A propos",
