@@ -1,4 +1,21 @@
 [
+	 {
+   "title":"تعلم الحروف و الارقام",
+    "drawable":"",
+    "submenu":"الحروف و الارقام",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.supermama.me/posts/%D9%83%D9%8A%D9%81-%D8%A3%D8%B9%D9%84%D9%85-%D8%B7%D9%81%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%AD%D8%B1%D9%88%D9%81%D8%9F"
+        ]
+      }
+    ]
+
+  }
+	,
 		  {
     "title":" سباق الحروف",
     "drawable":"",
@@ -16,225 +33,8 @@
 	   	    
         ]
       }
-	,  
-			  {
-    "title":"أركان الإسلام الخمس للأطفال",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUMC6v_ER7j43IdfMlzM4jC-",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-			  {
-    "title":" هيّا نرسم ",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUOXEOscvmADIgC3L3MGvxby",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-			  {
-    "title":"تعليم اللغة الانجليزية للأطفال",
-    "drawable":"",
-    "submenu":"الانجليزية",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUOfieeYb8RYr5NehXZ2FMKz",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-			  {
-    "title":"تعليم القرآن الكريم للأطفال",
-    "drawable":"",
-    "submenu":"القرآن",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUNM9jjbOzSv3AWMU9D7UmLF",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-			  {
-    "title":"حروف الهجاء للأطفال",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUP4SKUKrg3Udghc5zJ_tH0g",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-	 
-		  {
-    "title":"تعلم الكتابة و القراءة باللغة العربية",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUOmHSHA0e7XEHKQwBHK6cDh",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-	
-	  {
-    "title":"نحو",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"نحو",
-        "provider":"youtube",
-        "arguments":[
-          "PLhJA_JMNpt6NVhobtuXOeJAK8PeQTMA57",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-		  {
-    "title":"لعبة التهجي",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"لعبة التهجي",
-        "provider":"youtube",
-        "arguments":[
-          "PLhJA_JMNpt6OzxDHnfZ7cxQ4JkTEw4Gbb",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-	  {
-    "title":"أناشيد",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"لعبة الحروف",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUOQtlmkVCSnsi2NJa8rQB6k",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-		  {
-    "title":"لعبة الحروف",
-    "drawable":"",
-    "submenu":"الحروف",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"لعبة الحروف",
-        "provider":"youtube",
-        "arguments":[
-          "PLhJA_JMNpt6OYWwBslsZjj-Zfp-R_OrZQ",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-	{
-    "title":"تعلم الأرقام",
-    "drawable":"",
-    "submenu":"الأرقام",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PL-h6kMEy6W5f8cxR0ZyVENruM4IzqrOeF",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
-	{
-    "title":"تعلم الأرقام",
-    "drawable":"",
-    "submenu":"الأرقام",
-    "iap":false,
-    "tabs":[
-	       {
-        "title":"",
-        "provider":"youtube",
-        "arguments":[
-          "PLEaGEZnOHpUP5UmuuTlQ9fpXHi6c-Qni_",
-          "playlist"
-		]
-	       }
-	   	    
-        ]
-      }
-	,  
+	    
+  	,  
 
 
   {
